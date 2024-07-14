@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#COLORS
+GREEN='\033[0;32m'
+RED='\033[0;31m'
+BLUE='\033[0;34m'
+
+#FONTS
+RESET='\033[0m'
+BOLD='\033[1m'
